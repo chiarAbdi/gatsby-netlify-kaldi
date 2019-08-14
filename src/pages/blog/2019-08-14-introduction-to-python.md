@@ -20,17 +20,20 @@ tags:
 * str - string, text
 * bool - True, False
 
-
-```
-In [1] : height = 1.73In [2]: tall = True
-```
+> In \[1] : height = 1.73
+>
+> In \[2]: tall = True
 
 * Each variable represents single value
 
-## Python List: 
+## Python List:
 
 > is a collection of Values that contain any Types that contain any type( Float, int, bool, str, list)
 
 It is possible to have different type of data in the list 
 
 ![](/img/pythonlistsdt.png)
+
+> List of Lists in Python
+
+![](/img/pythonlistoflists.png)
